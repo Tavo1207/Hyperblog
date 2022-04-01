@@ -9,5 +9,6 @@ Nuevo blog de practica para el curso de [Git y GitHub](https://platzi.com/cursos
 * Trucos muy locos de Freddy Vega
 * Los espacios que se crean al iniciar un git
 * Trabajar en repos locales y remotos
+* Creado por el dueño y CEO Fredy Vega
 
 Como un amable recordatorio: **Este Readme.md es una prueba**, diseñado como ejemplo en el curso. Si llegas hasta este punto has avanzado lo sifuciente para manejar tu propio repositorio de manera basica, **te lo recomiendo mucho!!!**
